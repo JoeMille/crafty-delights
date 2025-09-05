@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "eo2jGmbMahbru/iCVPqMcxRJJ9cxZIph/cvosLl826M=",
+  "Source": "crafty-delights",
+  "BasePath": "_content/crafty-delights",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "crafty-delights/wwwroot",
+      "Source": "crafty-delights",
+      "ContentRoot": "/home/user/GitRepos/crafty-delights/wwwroot/",
+      "BasePath": "_content/crafty-delights",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/hc39uzo7vl-pd4m8e7g5t.gz",
+      "SourceId": "crafty-delights",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/crafty-delights",
+      "RelativePath": "css/site#[.{fingerprint=pd4m8e7g5t}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/user/GitRepos/crafty-delights/wwwroot/css/site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wmn5takgnn",
+      "Integrity": "6OspJMJFM85mHKSBHysy68tlRlfBiAu3j6HDper6/sw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/user/GitRepos/crafty-delights/wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/home/user/GitRepos/crafty-delights/wwwroot/css/site.css",
+      "SourceId": "crafty-delights",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/user/GitRepos/crafty-delights/wwwroot/",
+      "BasePath": "_content/crafty-delights",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pd4m8e7g5t",
+      "Integrity": "rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/hc39uzo7vl-pd4m8e7g5t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005524861878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OspJMJFM85mHKSBHysy68tlRlfBiAu3j6HDper6/sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Sep 2025 17:19:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Sep 2025 17:19:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/hc39uzo7vl-pd4m8e7g5t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OspJMJFM85mHKSBHysy68tlRlfBiAu3j6HDper6/sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Sep 2025 17:19:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6OspJMJFM85mHKSBHysy68tlRlfBiAu3j6HDper6/sw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.pd4m8e7g5t.css",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/hc39uzo7vl-pd4m8e7g5t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005524861878"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OspJMJFM85mHKSBHysy68tlRlfBiAu3j6HDper6/sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Sep 2025 17:19:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pd4m8e7g5t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.pd4m8e7g5t.css",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/wwwroot/css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "301"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Sep 2025 17:19:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pd4m8e7g5t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rS+IUfgEaoIt3os/6akQ/CbdpRLaMpDD5tBfaKChJJw="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.pd4m8e7g5t.css.gz",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/hc39uzo7vl-pd4m8e7g5t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6OspJMJFM85mHKSBHysy68tlRlfBiAu3j6HDper6/sw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Sep 2025 17:19:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pd4m8e7g5t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6OspJMJFM85mHKSBHysy68tlRlfBiAu3j6HDper6/sw="
+        }
+      ]
+    }
+  ]
+}
