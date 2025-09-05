@@ -4,21 +4,82 @@ body {
     padding: 0;
 }
 
-.navbar {
+/* React Navbar Styles */
+.navbar-react {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #333;
-    padding: 1rem;
+    padding: 1rem 2rem;
+    color: white;
 }
 
-.navbar a {
+.nav-brand h2 {
+    margin: 0;
+    color: #667eea;
+}
+
+.nav-links {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 2rem;
+}
+
+.nav-links a {
     color: white;
     text-decoration: none;
-    margin-right: 1rem;
+    transition: color 0.3s;
 }
 
-.navbar a:hover {
-    text-decoration: underline;
+.nav-links a:hover {
+    color: #667eea;
 }
 
-main {
+/* React Landing Page Styles */
+.hero-section-react {
+    text-align: center;
+    padding: 4rem 2rem;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.hero-section-react h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+.cta-button {
+    background-color: #764ba2;
+    color: white;
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+.cta-button:hover {
+    background-color: #667eea;
+}
+
+.featured-section {
+    padding: 3rem 2rem;
+    text-align: center;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+}
+
+.product-card {
+    background: #f8f9fa;
     padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }

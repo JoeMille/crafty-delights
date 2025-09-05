@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("crafty-delights")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ad488d5b2b64f03adac269df7dce355a1d8a169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+660776f2d536b22b922cd613ba0dd8146526d044")]
 [assembly: System.Reflection.AssemblyProductAttribute("crafty-delights")]
 [assembly: System.Reflection.AssemblyTitleAttribute("crafty-delights")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -5,6 +5,14 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
+      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/dist/assets/main.js",
+      "PackagePath": "staticwebassets/dist/assets/main.js"
+    },
+    {
+      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.crafty-delights.props",
       "PackagePath": "build\\crafty-delights.props"
     },
