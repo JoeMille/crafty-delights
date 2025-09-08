@@ -1,4 +1,3 @@
-// ...existing code...
 import React from 'react';
 import HeroSection from './HeroSection';
 import Carousel from './Carousel';
