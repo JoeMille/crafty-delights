@@ -7,6 +7,10 @@
         <RootNamespace>CraftyDelights</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.8" />
+    </ItemGroup>
+
     <Target Name="BuildReact" BeforeTargets="Build">
         <Exec Command="npm run build" />
     </Target>

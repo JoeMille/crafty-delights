@@ -34,4 +34,4 @@
 /home/user/GitRepos/crafty-delights/bin/Debug/net9.0/tsconfig.node.json
 /home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/82uh6rwq35-5ipweew5fc.gz
 /home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/hc39uzo7vl-04d15dfx8v.gz
-/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-6jvy3nxdib.gz
+/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-sonppbb266.gz

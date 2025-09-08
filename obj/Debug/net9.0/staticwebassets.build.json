@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "M3xiCI+LSC49P0q+KZ6hyGDIfIrql/ktAXGWKishjPg=",
+  "Hash": "I157rEeP+AilmKFe1NsVKNnIp6G1eEcyi+LoXZh197E=",
   "Source": "crafty-delights",
   "BasePath": "_content/crafty-delights",
   "Mode": "Default",
@@ -38,12 +38,12 @@
       "OriginalItemSpec": "/home/user/GitRepos/crafty-delights/wwwroot/js/site.js"
     },
     {
-      "Identity": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-6jvy3nxdib.gz",
+      "Identity": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-sonppbb266.gz",
       "SourceId": "crafty-delights",
       "SourceType": "Discovered",
       "ContentRoot": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/crafty-delights",
-      "RelativePath": "dist/assets/main#[.{fingerprint=6jvy3nxdib}]?.js.gz",
+      "RelativePath": "dist/assets/main#[.{fingerprint=sonppbb266}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -52,8 +52,8 @@
       "RelatedAsset": "/home/user/GitRepos/crafty-delights/wwwroot/dist/assets/main.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "37au13giwj",
-      "Integrity": "H5zMrjfEpf1o/b3njciTgih5ZeZsp7PoBTn9lIn5PeY=",
+      "Fingerprint": "o9ks6q2oxo",
+      "Integrity": "nOOnOaA69y4N+2KgaTe9u9sz0hXk1RqRiwsUxdw25I8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/user/GitRepos/crafty-delights/wwwroot/dist/assets/main.js"
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6jvy3nxdib",
-      "Integrity": "3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI=",
+      "Fingerprint": "sonppbb266",
+      "Integrity": "1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/dist/assets/main.js"
@@ -3110,13 +3110,13 @@
       ]
     },
     {
-      "Route": "dist/assets/main.6jvy3nxdib.js",
-      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-6jvy3nxdib.gz",
+      "Route": "dist/assets/main.js",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-sonppbb266.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000016542050"
+          "Quality": "0.000016541503"
         }
       ],
       "ResponseHeaders": [
@@ -3126,19 +3126,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60451"
+          "Value": "60453"
         },
         {
           "Name": "ETag",
-          "Value": "\"H5zMrjfEpf1o/b3njciTgih5ZeZsp7PoBTn9lIn5PeY=\""
+          "Value": "\"nOOnOaA69y4N+2KgaTe9u9sz0hXk1RqRiwsUxdw25I8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 15:12:55 GMT"
+          "Value": "Mon, 08 Sep 2025 15:19:56 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -3154,26 +3154,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI=\""
+          "Value": "W/\"1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "6jvy3nxdib"
-        },
-        {
-          "Name": "label",
-          "Value": "dist/assets/main.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI="
+          "Value": "sha256-1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="
         }
       ]
     },
     {
-      "Route": "dist/assets/main.6jvy3nxdib.js",
+      "Route": "dist/assets/main.js",
       "AssetFile": "/home/user/GitRepos/crafty-delights/wwwroot/dist/assets/main.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3183,7 +3175,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "190366"
+          "Value": "190368"
         },
         {
           "Name": "Content-Type",
@@ -3191,11 +3183,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI=\""
+          "Value": "\"1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 15:12:55 GMT"
+          "Value": "Mon, 08 Sep 2025 15:19:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="
+        }
+      ]
+    },
+    {
+      "Route": "dist/assets/main.js.gz",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-sonppbb266.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60453"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOOnOaA69y4N+2KgaTe9u9sz0hXk1RqRiwsUxdw25I8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Sep 2025 15:19:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nOOnOaA69y4N+2KgaTe9u9sz0hXk1RqRiwsUxdw25I8="
+        }
+      ]
+    },
+    {
+      "Route": "dist/assets/main.sonppbb266.js",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-sonppbb266.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000016541503"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60453"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nOOnOaA69y4N+2KgaTe9u9sz0hXk1RqRiwsUxdw25I8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Sep 2025 15:19:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sonppbb266"
+        },
+        {
+          "Name": "label",
+          "Value": "dist/assets/main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="
+        }
+      ]
+    },
+    {
+      "Route": "dist/assets/main.sonppbb266.js",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/wwwroot/dist/assets/main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 08 Sep 2025 15:19:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3205,7 +3342,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6jvy3nxdib"
+          "Value": "sonppbb266"
         },
         {
           "Name": "label",
@@ -3213,13 +3350,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI="
+          "Value": "sha256-1ManmjFT+rSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="
         }
       ]
     },
     {
-      "Route": "dist/assets/main.6jvy3nxdib.js.gz",
-      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-6jvy3nxdib.gz",
+      "Route": "dist/assets/main.sonppbb266.js.gz",
+      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-sonppbb266.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3228,7 +3365,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "60451"
+          "Value": "60453"
         },
         {
           "Name": "Content-Type",
@@ -3236,11 +3373,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"H5zMrjfEpf1o/b3njciTgih5ZeZsp7PoBTn9lIn5PeY=\""
+          "Value": "\"nOOnOaA69y4N+2KgaTe9u9sz0hXk1RqRiwsUxdw25I8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 15:12:55 GMT"
+          "Value": "Mon, 08 Sep 2025 15:19:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3258,7 +3395,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "6jvy3nxdib"
+          "Value": "sonppbb266"
         },
         {
           "Name": "label",
@@ -3266,144 +3403,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-H5zMrjfEpf1o/b3njciTgih5ZeZsp7PoBTn9lIn5PeY="
-        }
-      ]
-    },
-    {
-      "Route": "dist/assets/main.js",
-      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-6jvy3nxdib.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000016542050"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "60451"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H5zMrjfEpf1o/b3njciTgih5ZeZsp7PoBTn9lIn5PeY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 15:12:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI="
-        }
-      ]
-    },
-    {
-      "Route": "dist/assets/main.js",
-      "AssetFile": "/home/user/GitRepos/crafty-delights/wwwroot/dist/assets/main.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "190366"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 15:12:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3jzdFA//MIW/InzwJA8y+ApbIZ5DJeWtiswHZPJvsKI="
-        }
-      ]
-    },
-    {
-      "Route": "dist/assets/main.js.gz",
-      "AssetFile": "/home/user/GitRepos/crafty-delights/obj/Debug/net9.0/compressed/c8jlsff1s1-6jvy3nxdib.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "60451"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"H5zMrjfEpf1o/b3njciTgih5ZeZsp7PoBTn9lIn5PeY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 08 Sep 2025 15:12:55 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-H5zMrjfEpf1o/b3njciTgih5ZeZsp7PoBTn9lIn5PeY="
+          "Value": "sha256-nOOnOaA69y4N+2KgaTe9u9sz0hXk1RqRiwsUxdw25I8="
         }
       ]
     },

@@ -12,17 +12,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YF4Igrcc72TmFgsYGM/g8siP58jritFH3oDVOZuWe2Q="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4039"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022YF4Igrcc72TmFgsYGM/g8siP58jritFH3oDVOZuWe2Q=\u0022"},{"Name":"Last-Modified","Value":"Mon, 08 Sep 2025 15:12:33 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/crafty-delights/dist/assets/main.6jvy3nxdib.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\assets\main.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6jvy3nxdib"},{"Name":"integrity","Value":"sha256-3jzdFA//MIW/InzwJA8y\u002BApbIZ5DJeWtiswHZPJvsKI="},{"Name":"label","Value":"_content/crafty-delights/dist/assets/main.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"190366"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223jzdFA//MIW/InzwJA8y\u002BApbIZ5DJeWtiswHZPJvsKI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 08 Sep 2025 15:12:55 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/crafty-delights/dist/assets/main.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\assets\main.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3jzdFA//MIW/InzwJA8y\u002BApbIZ5DJeWtiswHZPJvsKI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"190366"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223jzdFA//MIW/InzwJA8y\u002BApbIZ5DJeWtiswHZPJvsKI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 08 Sep 2025 15:12:55 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"190368"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\u0022"},{"Name":"Last-Modified","Value":"Mon, 08 Sep 2025 15:19:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/crafty-delights/dist/assets/main.sonppbb266.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\assets\main.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sonppbb266"},{"Name":"integrity","Value":"sha256-1ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="},{"Name":"label","Value":"_content/crafty-delights/dist/assets/main.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"190368"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\u0022"},{"Name":"Last-Modified","Value":"Mon, 08 Sep 2025 15:19:56 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/crafty-delights/images/02366663-1927-4129-b9c1-52a0ee93cfe0.fx1z2d7dv9.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\02366663-1927-4129-b9c1-52a0ee93cfe0.jpg'))</AssetFile>
