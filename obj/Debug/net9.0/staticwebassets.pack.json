@@ -333,8 +333,16 @@
       "PackagePath": "staticwebassets/images/b5ec05a6-accf-4564-b471-9b82d32d0ce0.jpg"
     },
     {
-      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/image1.jpg",
-      "PackagePath": "staticwebassets/images/image1.jpg"
+      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/carousel/image1.jpg",
+      "PackagePath": "staticwebassets/images/carousel/image1.jpg"
+    },
+    {
+      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/carousel/image2.jpg",
+      "PackagePath": "staticwebassets/images/carousel/image2.jpg"
+    },
+    {
+      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/carousel/image3.jpg",
+      "PackagePath": "staticwebassets/images/carousel/image3.jpg"
     },
     {
       "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/image10.jpg",
@@ -377,10 +385,6 @@
       "PackagePath": "staticwebassets/images/image19.jpg"
     },
     {
-      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/image2.jpg",
-      "PackagePath": "staticwebassets/images/image2.jpg"
-    },
-    {
       "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/image20.jpg",
       "PackagePath": "staticwebassets/images/image20.jpg"
     },
@@ -419,10 +423,6 @@
     {
       "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/image29.jpg",
       "PackagePath": "staticwebassets/images/image29.jpg"
-    },
-    {
-      "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/image3.jpg",
-      "PackagePath": "staticwebassets/images/image3.jpg"
     },
     {
       "Id": "/home/user/GitRepos/crafty-delights/wwwroot/images/image31.jpg",
