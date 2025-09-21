@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\assets\main.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"190368"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\u0022"},{"Name":"Last-Modified","Value":"Wed, 10 Sep 2025 10:06:43 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"190368"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\u0022"},{"Name":"Last-Modified","Value":"Wed, 10 Sep 2025 10:07:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/crafty-delights/dist/assets/main.sonppbb266.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\dist\assets\main.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sonppbb266"},{"Name":"integrity","Value":"sha256-1ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128="},{"Name":"label","Value":"_content/crafty-delights/dist/assets/main.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"190368"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\u0022"},{"Name":"Last-Modified","Value":"Wed, 10 Sep 2025 10:06:43 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"190368"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00221ManmjFT\u002BrSK70xdwTghWrBhMmKA0Zdpb9o5OWSE128=\u0022"},{"Name":"Last-Modified","Value":"Wed, 10 Sep 2025 10:07:24 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/crafty-delights/images/02366663-1927-4129-b9c1-52a0ee93cfe0.fx1z2d7dv9.jpg">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\02366663-1927-4129-b9c1-52a0ee93cfe0.jpg'))</AssetFile>
