@@ -2,11 +2,11 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CraftyDelights.Controllers
 {
-    public class HomeController : Controller
+    [ApiController]
+    [Route("api/[controller]")]
+    public class HomeController : ControllerBase
     {
-        public IActionResult Index()
-        {
-            return View();
-        }
+        [HttpGet("health")]
+        public IActionResult Health() => Ok(new { status = "ok", message = "API is running" });
     }
 }

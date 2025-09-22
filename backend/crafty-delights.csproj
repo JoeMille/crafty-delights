@@ -20,8 +20,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <Target Name="BuildReact" BeforeTargets="Build">
-    <Exec Command="npm run build" />
-  </Target>
-
 </Project>
